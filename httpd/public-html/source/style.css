@@ -1,0 +1,22 @@
+*{margin: 0;}
+html, body {
+    height: 100%;
+}
+
+table {
+    height: 100%;
+    width: 100%;
+}
+
+.letter {
+    color: red;
+    font-size: 100%;
+    font-family: serif;
+    position: relative;
+    top: 2px;
+}
+
+td:hover {
+    background-color: #47ffed;
+    transition: .7s;
+}
